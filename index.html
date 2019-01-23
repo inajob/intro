@@ -34,6 +34,13 @@ body{
   border:solid 1px;
 }
 
+@media screen and (max-width: 640px) {
+  .icon{
+    width: 50px;
+    border:solid 1px;
+  }
+}
+
 /* https://stackoverflow.com/questions/14423671/best-method-for-displaying-a-tree-list-using-css-only-no-images-or-js-example */
 ul {
   padding: 0;
@@ -98,6 +105,31 @@ td{
   <li><div>はてブ: <a target="_blank" href="http://b.hatena.ne.jp/inajob/bookmark">inajobのブックマーク</a></div></li>
   <li><div>scrapbox: <a target="_blank" href="https://scrapbox.io/inajob/">https://scrapbox.io/inajob/</a></div></li>
 </ul>
+
+<h1>Works</h1>
+<h2><span class="invert">Life Work</span></h2>
+<div>長期的な開発を行っているプロダクト</div>
+<ul>
+  <li>
+    <div><table><tr><td><img class="icon" src="https://inajob.github.io/rakuchord/imgs/latest-rakuchord.jpg"></td><td><h3><a target="_blank" href="https://inajob.github.io/rakuchord/">RakuChord</a></h3><div>楽にそれっぽい演奏ができる楽器です。</div></td></tr></table></div>
+  </li>
+  <li>
+  <div><table><tr><td><img class="icon" src="https://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20180527/20180527165238.png"></td><td><h3><a target="_blank" href="https://inajob.hatenablog.jp/entry/2018/05/27/ESP32%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%22o-bako%22%E3%81%AE%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%82%92%E9%96%8B%E7%99%BA%E3%81%97%E3%81%9F">o-bako</a></h3><div>ESP32を使ったゲーム機とブラウザで動くシミュレータ</div></td></tr></table></div>
+  </li>
+  <li>
+    <div><h3>inline-wiki</h3><div>インラインプレビュー型のWiki</div></div>
+  </li>
+</ul>
+
+<h2><span class="invert">Published</span></h2>
+<div>成果を公開しているプロダクト</div>
+<ul id="product">
+</ul>
+<h2><span class="invert">Deprecated<span></h2>
+<div>公開終了したプロダクト</div>
+<ul id="deprecated">
+</ul>
+
 <h1>Concept</h1>
 <ul>
   <li>
@@ -137,29 +169,6 @@ td{
       <li><div>メモ魔なので、いつかメモ帳をデジタル化しようと企んでいます。enchantMOONやEeeNote,ちょっと前だとPalmとかWindowsMobileなどその手のデバイスが好きです</div></li>
     </ul>
   </li>
-</ul>
-<h1>Works</h1>
-<h2><span class="invert">Life Work</span></h2>
-<div>長期的な開発を行っているプロダクト</div>
-<ul>
-  <li>
-    <div><table><tr><td><img class="icon" src="https://inajob.github.io/rakuchord/imgs/latest-rakuchord.jpg"></td><td><h3><a target="_blank" href="https://inajob.github.io/rakuchord/">RakuChord</a></h3><div>楽にそれっぽい演奏ができる楽器です。</div></td></tr></table></div>
-  </li>
-  <li>
-  <div><table><tr><td><img class="icon" src="https://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20180527/20180527165238.png"></td><td><h3><a target="_blank" href="https://inajob.hatenablog.jp/entry/2018/05/27/ESP32%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%22o-bako%22%E3%81%AE%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%82%92%E9%96%8B%E7%99%BA%E3%81%97%E3%81%9F">o-bako</a></h3><div>ESP32を使ったゲーム機とブラウザで動くシミュレータ</div></td></tr></table></div>
-  </li>
-  <li>
-    <div><h3>inline-wiki</h3><div>インラインプレビュー型のWiki</div></div>
-  </li>
-</ul>
-
-<h2><span class="invert">Published</span></h2>
-<div>成果を公開しているプロダクト</div>
-<ul id="product">
-</ul>
-<h2><span class="invert">Deprecated<span></h2>
-<div>公開終了したプロダクト</div>
-<ul id="deprecated">
 </ul>
 
 <script src="js/intro.json"></script>
