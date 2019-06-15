@@ -4,6 +4,12 @@ var intro = [
 //	 "Description":"暇なときにポチッと ネタを提供？",
 //	 "Icon":"http://inajob.dip.jp/rword/neta.png"},
 
+{"URL":"https://inajob.github.io/magical-circle-generator/",
+        "Title":"魔法陣自動生成",
+        "Description":"リロードするたびに新しい魔法陣を生成します。",
+        "Icon":"https://github.com/inajob/magical-circle-generator/raw/master/docs/ogp.png",
+        "Tag":["JavaScript"],
+},
 {"URL":"https://inajob.hatenablog.jp/entry/2018/09/02/%E5%A4%89%E6%84%9A%E8%9B%AE%E6%80%92%E5%B0%82%E7%94%A8%E6%A9%9F%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F",
         "Title":"変愚蛮怒専用機",
         "Description":"RaspberryPi Zeroで作った変愚蛮怒専用機",
