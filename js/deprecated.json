@@ -1,4 +1,26 @@
 var deprecated = [
+{"URL":"http://d.hatena.ne.jp/inajob/20131208",
+        "Title":"enchantMOON アニメシール",
+        "Description":"enchantMOONのでパラパラアニメ",
+        "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20131208/20131208230038.png",
+        "Tag":["enchantMOON","JavaScript","Canvas"],
+        "Status":"実験"
+},
+{"URL":"http://d.hatena.ne.jp/inajob/20130825",
+        "Title":"enchantMOON Paint",
+        "Description":"enchantMOONの上で動くペイント",
+        "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20130826/20130826200336.png",
+        "Tag":["enchantMOON","JavaScript","Canvas"],
+        "Status":"実験"
+},
+
+{"URL":"http://inajob.dip.jp/linecom/linecom.html",
+        "Title":"チャット風UI",
+        "Description":"ブラウザでチャットUIみたいなのをつくる",
+        "Icon":"",
+        "Tag":["JavaScript"],
+        "Status":"実験"
+},
 {"URL":"http://d.hatena.ne.jp/inajob/20140223",
         "Title":"VoiceRemix!",
         "Description":"音声と音楽をいい感じにリミックスするWebサービス",

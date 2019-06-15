@@ -183,14 +183,6 @@ var intro = [
         "Status":"実験"
 },
 
-{"URL":"http://inajob.dip.jp/linecom/linecom.html",
-        "Title":"チャット風UI",
-        "Description":"ブラウザでチャットUIみたいなのをつくる",
-        "Icon":"",
-        "Tag":["JavaScript"],
-        "Status":"実験"
-},
-
 {"URL":"http://inajob.github.io/simplepaint/",
         "Title":"しんぷるぺいんと",
         "Description":"ブラウザでペン入力を取得する",
@@ -296,20 +288,6 @@ var intro = [
         "Tag":["HTML5","Canvas","魔法陣"],
         "Status":"開発中"
 },
-{"URL":"http://d.hatena.ne.jp/inajob/20131208",
-        "Title":"enchantMOON アニメシール",
-        "Description":"enchantMOONのでパラパラアニメ",
-        "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20131208/20131208230038.png",
-        "Tag":["enchantMOON","JavaScript","Canvas"],
-        "Status":"実験"
-},
-{"URL":"http://d.hatena.ne.jp/inajob/20130825",
-        "Title":"enchantMOON Paint",
-        "Description":"enchantMOONの上で動くペイント",
-        "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20130826/20130826200336.png",
-        "Tag":["enchantMOON","JavaScript","Canvas"],
-        "Status":"実験"
-},
 {"URL":"http://inajob.dip.jp/twlogin/data/5643382%3A%252Fprojects%252F%25E9%259B%25BB%25E5%2585%2589%25E6%258E%25B2%25E7%25A4%25BA%25E6%259D%25BF.html",
         "Title":"16Seg電光掲示板",
         "Description":"異様にでかい16セグx6",
@@ -355,7 +333,7 @@ var intro = [
         "Tag":["HTML5","Canvas","JavaScript"],
         "Status":"一発ネタ"
 },
-{"URL":"http://inajob.dip.jp/perfume/perfume.html",
+{"URL":"http://inajob.github.io/perfume-canvas/perfume.html",
         "Title":"Perfume × Canvas",
         "Description":"PerfumeをCanvasで踊らせてみた",
         "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20120402/20120402230027.jpg",
