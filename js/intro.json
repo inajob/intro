@@ -237,7 +237,7 @@ var intro = [
         "Status":"実験"
 },
 
-{"URL":"http://inajob.dip.jp/dote/dote.html",
+{"URL":"http://web.inajob.tk/dote/dote.html",
         "Title":"DotE どっと・え",
         "Description":"100x16ドット絵投稿サイト",
         "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20140615/20140615213725.png",
@@ -342,10 +342,10 @@ var intro = [
         "Tag":["Ruby on Rails"],
         "Status":"開発中"
 },
-{"URL":"http://douyo.inajog.tk/douyo.html",
+{"URL":"http://douyo.inajob.ga/douyo.html",
 	 "Title":"どぅよ？",
 	 "Description":"テキトーなモノを次々怪しいタグ付きで紹介",
-	 "Icon":"http://douyo.inajob.tk/douyo.png",
+	 "Icon":"http://douyo.inajob.ga/douyo.png",
 	 "Tag":["twitter","bot"],
 	 "Status":"一応まだ動いてる"},
 {"URL":"http://inajob.dip.jp/canvas_skk/canvas_skk.html",
