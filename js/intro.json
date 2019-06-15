@@ -207,7 +207,7 @@ var intro = [
         "Status":"実験"
 },
 
-{"URL":"http://inajob.dip.jp/zougo/",
+{"URL":"https://inajob.github.io/zougo-generator/",
         "Title":"造語生産器",
         "Description":"独自の造語を生成するツール",
         "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20150620/20150620152951.png",
@@ -222,7 +222,7 @@ var intro = [
         "Tag":["JavaScript", "自然言語処理"],
         "Status":"実験"
 },
-{"URL":"http://inajob.dip.jp/idea/",
+{"URL":"https://inajob.github.io/idea-generator/",
         "Title":"アイデア生産機",
         "Description":"奇抜な単語が 次々出てくる強制発想ツール",
         "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20140713/20140713202246.png",
@@ -252,7 +252,7 @@ var intro = [
         "Status":"開発中"
 },
 
-{"URL":"http://inajob.dip.jp/mojitv/moji.html",
+{"URL":"https://inajob.github.io/mojitv/moji.html",
         "Title":"もじテレビ",
         "Description":"注文の多い料理店 をいい感じに再生",
         "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20140511/20140511172502.png",
