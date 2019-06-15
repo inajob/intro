@@ -117,7 +117,7 @@ var intro = [
         "Tag":["JavaScript"],
         "Status":"実験"
 },
-{"URL":"http://inajob.dip.jp/anime-title/",
+{"URL":"https://inajob.github.io/anime-title-generator/index.html",
         "Title":"アニメタイトル生成器",
         "Description":"アニメのタイトルっぽいものを自動生成",
         "Icon":"",
@@ -292,7 +292,7 @@ var intro = [
 {"URL":"http://web.inajob.tk/mce2/mce2.html",
         "Title":"魔法陣制作環境 MCE2",
         "Description":"魔法陣言語で魔法陣を描くプラットフォームです",
-        "Icon":"http://inajob.dip.jp/mce/back.png",
+        "Icon":"http://web.inajob.tk/mce2/img/logoback_c.png",
         "Tag":["HTML5","Canvas","魔法陣"],
         "Status":"開発中"
 },
@@ -342,10 +342,10 @@ var intro = [
         "Tag":["Ruby on Rails"],
         "Status":"開発中"
 },
-{"URL":"http://douyo.inajog.ga/douyo.html",
+{"URL":"http://douyo.inajog.tk/douyo.html",
 	 "Title":"どぅよ？",
 	 "Description":"テキトーなモノを次々怪しいタグ付きで紹介",
-	 "Icon":"http://douyo.inajob.ga/douyo.png",
+	 "Icon":"http://douyo.inajob.tk/douyo.png",
 	 "Tag":["twitter","bot"],
 	 "Status":"一応まだ動いてる"},
 {"URL":"http://inajob.dip.jp/canvas_skk/canvas_skk.html",
@@ -399,10 +399,10 @@ var intro = [
         "Status":"実験 - MCEへ"
 },
 
-{"URL":"http://tsukutter.inajob.ga/",
+{"URL":"http://tsukutter.inajob.tk/",
         "Title":"つくったー",
         "Description":"作ったものを皆に紹介",
-        "Icon":"http://tsukutter.inajob.ga/tsu_big.png",
+        "Icon":"http://tsukutter.inajob.tk/tsu_big.png",
         "Tag":["twitter"],
         "Status":"稼働中 いろいろ手を入れたい follow me!"},
 {"URL":"http://inajob.dip.jp/twlogin/data/5643382%3AFrontPage.html",
