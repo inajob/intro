@@ -175,7 +175,7 @@ var intro = [
         "Status":"実験"
 },
 
-{"URL":"http://inajob.dip.jp/daikon/daikon.html",
+{"URL":"https://inajob.github.io/daikon/daikon.html",
         "Title":"DAIKON YOKE",
         "Description":"大根をよけるゲーム",
         "Icon":"http://inajob.dip.jp/daikon/img/etsuko.gif",
@@ -191,7 +191,7 @@ var intro = [
         "Status":"実験"
 },
 
-{"URL":"http://inajob.dip.jp/gifbird/gifbird.html",
+{"URL":"http://inajob.github.io/gifbird/gifbird.html",
         "Title":"gifbird",
         "Description":"gifアニメでリプレイ動画をシェアできる、某ゲーム",
         "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20150808/20150808223202.gif",
@@ -221,7 +221,7 @@ var intro = [
         "Tag":["JavaScript", "自然言語処理"],
         "Status":"実験"
 },
-{"URL":"http://inajob.dip.jp/bijin/",
+{"URL":"http://web.inajob.tk/bijin-search/",
         "Title":"美人検索",
         "Description":"美人を検索できるWebサービス",
         "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20140713/20140713202245.png",
@@ -252,14 +252,14 @@ var intro = [
         "Status":"放置"
 },
 
-{"URL":"http://inajob.dip.jp/rakuchordweb/rakuchordweb.html",
+{"URL":"https://inajob.github.io/rakuchord-web/rakuchordweb.html",
         "Title":"RakuChord for WEB",
         "Description":"iPhoneで動くRakuChord",
         "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20140419/20140419232141.png",
         "Tag":["JavaScript", "WebAudio"],
         "Status":"放置"
 },
-{"URL":"http://inajob.dip.jp/mathartjs/mathart.html",
+{"URL":"https://inajob.github.io/mathart/mathart.html",
         "Title":"mathart js",
         "Description":"数学により創りだされる美しい模様",
         "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20140209/20140209172425.jpg",
@@ -274,7 +274,7 @@ var intro = [
         "Tag":["自然言語処理"],
         "Status":"開発中"
 },
-{"URL":"http://inajob.dip.jp/tokyo_rail_canvas/sta.html",
+{"URL":"https://inajob.github.io/tokyo-rail-canvas/docs/sta.html",
         "Title":"Tokyo Rail Canvas",
         "Description":"東京の路線を可視化",
         "Icon":"",
@@ -326,7 +326,7 @@ var intro = [
 	 "Icon":"http://douyo.inajob.ga/douyo.png",
 	 "Tag":["twitter","bot"],
 	 "Status":"一応まだ動いてる"},
-{"URL":"http://inajob.dip.jp/canvas_skk/canvas_skk.html",
+{"URL":"https://inajob.github.io/canvas-skk/canvas_skk.html",
         "Title":"CanvasSKK",
         "Description":"日本語変換エンジンをJavaScriptで作ってみた",
         "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20120617/20120617151213.png",
@@ -355,7 +355,7 @@ var intro = [
         "Tag":["HTML5","Canvas","魔法陣"],
         "Status":"次バージョンを開発中"
 },
-{"URL":"http://inajob.dip.jp/blockdiagjs/blockdiagjs.html",
+{"URL":"https://inajob.github.io/blockdiagjs/blockdiagjs.html",
         "Title":"blockdiagjs",
         "Description":"blockdiagのJavaScript版です",
         "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20110719/20110719003538.png",
