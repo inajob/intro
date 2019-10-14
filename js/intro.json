@@ -124,13 +124,6 @@ var intro = [
         "Tag":["自然言語処理", "JavaScript"],
         "Status":"実験"
 },
-{"URL":"http://inajob.dip.jp/n_koma/",
-        "Title":"Nコマ作成ツール",
-        "Description":"既存の素材を組み合わせてNコマ漫画が簡単に作れる",
-        "Icon":"https://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20170227/20170227225537.png",
-        "Tag":["JavaScript"],
-        "Status":"実験"
-},
 {"URL":"http://inajob.hatenablog.jp/entry/20170121/1484993572",
         "Title":"自作プロッタ",
         "Description":"ペンで図形を描く装置",
@@ -178,7 +171,7 @@ var intro = [
 {"URL":"https://inajob.github.io/daikon/daikon.html",
         "Title":"DAIKON YOKE",
         "Description":"大根をよけるゲーム",
-        "Icon":"http://inajob.dip.jp/daikon/img/etsuko.gif",
+        "Icon":"https://inajob.github.io/daikon/img/etsuko.gif",
         "Tag":["JavaScript", "Canvas"],
         "Status":"実験"
 },
@@ -347,13 +340,6 @@ var intro = [
         "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20111205/20111205221113.jpg",
         "Tag":["Arduino","電子工作","音楽"],
         "Status":"開発中"
-},
-{"URL":"http://inajob.dip.jp/mce/mce.html",
-        "Title":"魔法陣制作環境 MCE",
-        "Description":"魔法陣言語で魔法陣を描くプラットフォームです",
-        "Icon":"http://inajob.dip.jp/mce/back.png",
-        "Tag":["HTML5","Canvas","魔法陣"],
-        "Status":"次バージョンを開発中"
 },
 {"URL":"https://inajob.github.io/blockdiagjs/blockdiagjs.html",
         "Title":"blockdiagjs",

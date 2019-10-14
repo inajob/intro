@@ -1,4 +1,18 @@
 var deprecated = [
+{"URL":"http://inajob.dip.jp/n_koma/",
+        "Title":"Nコマ作成ツール",
+        "Description":"既存の素材を組み合わせてNコマ漫画が簡単に作れる",
+        "Icon":"https://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20170227/20170227225537.png",
+        "Tag":["JavaScript"],
+        "Status":"実験"
+},
+{"URL":"http://inajob.dip.jp/mce/mce.html",
+        "Title":"魔法陣制作環境 MCE",
+        "Description":"魔法陣言語で魔法陣を描くプラットフォームです",
+        "Icon":"http://inajob.dip.jp/mce/back.png",
+        "Tag":["HTML5","Canvas","魔法陣"],
+        "Status":"次バージョンを開発中"
+},
 {"URL":"http://d.hatena.ne.jp/inajob/20131208",
         "Title":"enchantMOON アニメシール",
         "Description":"enchantMOONのでパラパラアニメ",
