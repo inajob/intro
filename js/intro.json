@@ -4,16 +4,16 @@ var intro = [
 //	 "Description":"暇なときにポチッと ネタを提供？",
 //	 "Icon":"http://inajob.dip.jp/rword/neta.png"},
 
-{"URL":"http://web.inajob.ml/maibyo/",
+{"URL":"http://web.inajob.tk/maibyo/",
         "Title":"毎秒新聞",
         "Description":"インターネットの今が見えるサービス",
-        "Icon":"http://web.inajob.ml/maibyo/logo.png",
+        "Icon":"http://web.inajob.tk/maibyo/logo.png",
         "Tag":["JavaScript"],
 },
-{"URL":"http://page.inajob.ml/maiji/",
+{"URL":"http://page.inajob.tk/maiji/",
         "Title":"毎時新聞",
         "Description":"1時間ごとの流行画像をまとめるWebサービスです",
-        "Icon":"http://page.inajob.ml/maiji/logo.png",
+        "Icon":"http://page.inajob.tk/maiji/logo.png",
         "Tag":["JavaScript"],
 },
 {"URL":"https://inajob.github.io/magical-circle-generator/",
@@ -110,14 +110,14 @@ var intro = [
         "Tag":["JavaScript","mastodon"],
         "Status":"実験"
 },
-{"URL":"http://web.inajob.ml/ali-search/",
+{"URL":"http://web.inajob.tk/ali-search/",
         "Title":"激安さーち",
         "Description":"海外通販で安いものを超一覧",
         "Icon":"",
         "Tag":["JavaScript"],
         "Status":"実験"
 },
-{"URL":"https://inajob.github.io/anime-title-generator/index.html",
+{"URL":"https://inajob.github.io/anime-title-generator/index.h.tk",
         "Title":"アニメタイトル生成器",
         "Description":"アニメのタイトルっぽいものを自動生成",
         "Icon":"",
@@ -160,7 +160,7 @@ var intro = [
         "Tag":["Gamebuino", "電子工作", "ゲーム機"],
         "Status":"実験"
 },
-{"URL":"http://inajob.dip.jp/dev/timeline/timeline.html",
+{"URL":"http://inajob.dip.jp/dev/timeline/timeline.h.tk",
         "Title":"@ina_aniの年表",
         "Description":"自分の年表を作ってみた",
         "Icon":"",
@@ -168,7 +168,7 @@ var intro = [
         "Status":"実験"
 },
 
-{"URL":"https://inajob.github.io/daikon/daikon.html",
+{"URL":"https://inajob.github.io/daikon/daikon.h.tk",
         "Title":"DAIKON YOKE",
         "Description":"大根をよけるゲーム",
         "Icon":"https://inajob.github.io/daikon/img/etsuko.gif",
@@ -184,7 +184,7 @@ var intro = [
         "Status":"実験"
 },
 
-{"URL":"http://inajob.github.io/gifbird/gifbird.html",
+{"URL":"http://inajob.github.io/gifbird/gifbird.h.tk",
         "Title":"gifbird",
         "Description":"gifアニメでリプレイ動画をシェアできる、某ゲーム",
         "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20150808/20150808223202.gif",
@@ -200,7 +200,7 @@ var intro = [
         "Status":"実験"
 },
 
-{"URL":"http://inajob.github.io/futuota/html/",
+{"URL":"http://inajob.github.io/futuota/h.tk/",
         "Title":"ふつおた",
         "Description":"ふつおた自動生成システム",
         "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20141018/20141018231649.png",
@@ -214,7 +214,7 @@ var intro = [
         "Tag":["JavaScript", "自然言語処理"],
         "Status":"実験"
 },
-{"URL":"http://web.inajob.ml/bijin-search/",
+{"URL":"http://web.inajob.tk/bijin-search/",
         "Title":"美人検索",
         "Description":"美人を検索できるWebサービス",
         "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20140713/20140713202245.png",
@@ -222,7 +222,7 @@ var intro = [
         "Status":"実験"
 },
 
-{"URL":"http://web.inajob.ml/dote/dote.html",
+{"URL":"http://web.inajob.tk/dote/dote.h.tk",
         "Title":"DotE どっと・え",
         "Description":"100x16ドット絵投稿サイト",
         "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20140615/20140615213725.png",
@@ -237,7 +237,7 @@ var intro = [
         "Status":"開発中"
 },
 
-{"URL":"https://inajob.github.io/mojitv/moji.html",
+{"URL":"https://inajob.github.io/mojitv/moji.h.tk",
         "Title":"もじテレビ",
         "Description":"注文の多い料理店 をいい感じに再生",
         "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20140511/20140511172502.png",
@@ -245,14 +245,14 @@ var intro = [
         "Status":"放置"
 },
 
-{"URL":"https://inajob.github.io/rakuchord-web/rakuchordweb.html",
+{"URL":"https://inajob.github.io/rakuchord-web/rakuchordweb.h.tk",
         "Title":"RakuChord for WEB",
         "Description":"iPhoneで動くRakuChord",
         "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20140419/20140419232141.png",
         "Tag":["JavaScript", "WebAudio"],
         "Status":"放置"
 },
-{"URL":"https://inajob.github.io/mathart/mathart.html",
+{"URL":"https://inajob.github.io/mathart/mathart.h.tk",
         "Title":"mathart js",
         "Description":"数学により創りだされる美しい模様",
         "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20140209/20140209172425.jpg",
@@ -267,21 +267,21 @@ var intro = [
         "Tag":["自然言語処理"],
         "Status":"開発中"
 },
-{"URL":"https://inajob.github.io/tokyo-rail-canvas/docs/sta.html",
+{"URL":"https://inajob.github.io/tokyo-rail-canvas/docs/sta.h.tk",
         "Title":"Tokyo Rail Canvas",
         "Description":"東京の路線を可視化",
         "Icon":"",
         "Tag":["JavaScript", "Canvas"],
         "Status":"実験"
 },
-{"URL":"http://web.inajob.ml/mce2/mce2.html",
+{"URL":"http://web.inajob.tk/mce2/mce2.h.tk",
         "Title":"魔法陣制作環境 MCE2",
         "Description":"魔法陣言語で魔法陣を描くプラットフォームです",
-        "Icon":"http://web.inajob.ml/mce2/img/logoback_c.png",
+        "Icon":"http://web.inajob.tk/mce2/img/logoback_c.png",
         "Tag":["HTML5","Canvas","魔法陣"],
         "Status":"開発中"
 },
-{"URL":"http://inajob.dip.jp/twlogin/data/5643382%3A%252Fprojects%252F%25E9%259B%25BB%25E5%2585%2589%25E6%258E%25B2%25E7%25A4%25BA%25E6%259D%25BF.html",
+{"URL":"http://inajob.dip.jp/twlogin/data/5643382%3A%252Fprojects%252F%25E9%259B%25BB%25E5%2585%2589%25E6%258E%25B2%25E7%25A4%25BA%25E6%259D%25BF.h.tk",
         "Title":"16Seg電光掲示板",
         "Description":"異様にでかい16セグx6",
         "Icon":"http://inajob.dip.jp/dev/imgupload/data/img1370784416",
@@ -289,7 +289,7 @@ var intro = [
         "Status":"実験"
 },
 
-{"URL":"http://inajob.dip.jp/twlogin/data/5643382%3A%252Fprojects%252Frakuchord.html",
+{"URL":"http://inajob.dip.jp/twlogin/data/5643382%3A%252Fprojects%252Frakuchord.h.tk",
         "Title":"RakuChordLong",
         "Description":"RakuChordのハードウェア版(長い方)",
         "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20121009/20121009003706.jpg",
@@ -298,7 +298,7 @@ var intro = [
 },
 
 
-{"URL":"http://inajob.dip.jp/twlogin/data/5643382%3A%252Fprojects%252FTFTOTG.html",
+{"URL":"http://inajob.dip.jp/twlogin/data/5643382%3A%252Fprojects%252FTFTOTG.h.tk",
         "Title":"自作ゲーム機TFTOTG",
         "Description":"懐かしのゲームボーイみたいなものを自作",
         "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20130923/20130923231726.jpg",
@@ -313,20 +313,20 @@ var intro = [
         "Tag":["Ruby on Rails"],
         "Status":"開発中"
 },
-{"URL":"http://douyo.inajob.ga/douyo.html",
+{"URL":"http://douyo.inajob.ga/douyo.h.tk",
 	 "Title":"どぅよ？",
 	 "Description":"テキトーなモノを次々怪しいタグ付きで紹介",
 	 "Icon":"http://douyo.inajob.ga/douyo.png",
 	 "Tag":["twitter","bot"],
 	 "Status":"一応まだ動いてる"},
-{"URL":"https://inajob.github.io/canvas-skk/canvas_skk.html",
+{"URL":"https://inajob.github.io/canvas-skk/canvas_skk.h.tk",
         "Title":"CanvasSKK",
         "Description":"日本語変換エンジンをJavaScriptで作ってみた",
         "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20120617/20120617151213.png",
         "Tag":["HTML5","Canvas","JavaScript"],
         "Status":"一発ネタ"
 },
-{"URL":"http://inajob.github.io/perfume-canvas/perfume.html",
+{"URL":"http://inajob.github.io/perfume-canvas/perfume.h.tk",
         "Title":"Perfume × Canvas",
         "Description":"PerfumeをCanvasで踊らせてみた",
         "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20120402/20120402230027.jpg",
@@ -341,7 +341,7 @@ var intro = [
         "Tag":["Arduino","電子工作","音楽"],
         "Status":"開発中"
 },
-{"URL":"https://inajob.github.io/blockdiagjs/blockdiagjs.html",
+{"URL":"https://inajob.github.io/blockdiagjs/blockdiagjs.h.tk",
         "Title":"blockdiagjs",
         "Description":"blockdiagのJavaScript版です",
         "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20110719/20110719003538.png",
@@ -363,13 +363,13 @@ var intro = [
         "Status":"実験 - MCEへ"
 },
 
-{"URL":"http://tsukutter.inajob.ml/",
+{"URL":"http://tsukutter.inajob.tk/",
         "Title":"つくったー",
         "Description":"作ったものを皆に紹介",
-        "Icon":"http://tsukutter.inajob.ml/tsu_big.png",
+        "Icon":"http://tsukutter.inajob.tk/tsu_big.png",
         "Tag":["twitter"],
         "Status":"稼働中 いろいろ手を入れたい follow me!"},
-{"URL":"http://inajob.dip.jp/twlogin/data/5643382%3AFrontPage.html",
+{"URL":"http://inajob.dip.jp/twlogin/data/5643382%3AFrontPage.h.tk",
         "Title":"karuki",
         "Description":"Ajaxを利用したWiki 作業ログとかこれで書いてます",
         "Icon":"",
