@@ -4,6 +4,13 @@ var intro = [
 //	 "Description":"暇なときにポチッと ネタを提供？",
 //	 "Icon":"http://inajob.dip.jp/rword/neta.png"},
 
+{"URL":"https://inajob.github.io/old-games/",
+        "Title":"inajob's old games",
+        "Description":"学生時代に作ったゲーム達",
+        "Icon":"https://inajob.github.io/old-games/imgs/main.png",
+        "Tag":["JavaScript"],
+},
+
 {"URL":"http://web.inajob.tk/maibyo/",
         "Title":"毎秒新聞",
         "Description":"インターネットの今が見えるサービス",
