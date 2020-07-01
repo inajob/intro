@@ -320,10 +320,10 @@ var intro = [
         "Tag":["Ruby on Rails"],
         "Status":"開発中"
 },
-{"URL":"http://douyo.inajob.ga/douyo.html",
+{"URL":"http://douyo.inajob.tk/douyo.html",
 	 "Title":"どぅよ？",
 	 "Description":"テキトーなモノを次々怪しいタグ付きで紹介",
-	 "Icon":"http://douyo.inajob.ga/douyo.png",
+	 "Icon":"http://douyo.inajob.tk/douyo.png",
 	 "Tag":["twitter","bot"],
 	 "Status":"一応まだ動いてる"},
 {"URL":"https://inajob.github.io/canvas-skk/canvas_skk.html",
