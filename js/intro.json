@@ -210,7 +210,7 @@ var intro = [
         "Tag":["Gamebuino", "電子工作", "ゲーム機"],
         "Status":"実験"
 },
-{"URL":"http://inajob.dip.jp/dev/timeline/timeline.html",
+{"URL":"https://inajob.github.io/my-timeline/timeline.html",
         "Title":"@ina_aniの年表",
         "Description":"自分の年表を作ってみた",
         "Icon":"",
