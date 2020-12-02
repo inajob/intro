@@ -161,8 +161,8 @@ var intro = [
         "Status":"実験"
 },
 {"URL":"http://web.inajob.tk/ali-search/",
-        "Title":"激安さーち",
-        "Description":"海外通販で安いものを超一覧",
+        "Title":"アリサーチ",
+        "Description":"AliExpressをシンプルに検索",
         "Icon":"",
         "Tag":["JavaScript"],
         "Status":"実験"
