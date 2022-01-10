@@ -4,6 +4,50 @@ var intro = [
 //	 "Description":"暇なときにポチッと ネタを提供？",
 //	 "Icon":"http://inajob.dip.jp/rword/neta.png"},
 
+{"URL":"https://github.com/inajob/ouchi-raspberry-pi",
+        "Title":"おうちRaspberryPi",
+        "Description":"我が家のRaspberryPiを使ったNAS兼サイネージの構築スクリプト",
+        "Icon":"https://github.com/inajob/ouchi-raspberry-pi/raw/main/ouchi-raspberrypi.jpg",
+        "Tag":["JavaScript"],
+},
+
+
+{"URL":"https://github.com/inajob/toICN",
+        "Title":"toICN",
+        "Description":"インスタコード用にコード譜を変換するツール",
+        "Icon":"https://github.com/inajob/toICN/raw/main/imgs/cover.png",
+        "Tag":["JavaScript"],
+},
+
+{"URL":"https://inajob.github.io/graphviz-live-preview/",
+        "Title":"graphviz-live-preview",
+        "Description":"graphvizの図をブラウザでプレビューするツール",
+        "Icon":"",
+        "Tag":["JavaScript"],
+},
+
+{"URL":"https://github.com/inajob/esp32-text-editor",
+        "Title":"iesp32-text-editor",
+        "Description":"ESP32をコアとする日本語変換機能付きのテキストエディタ",
+        "Icon":"",
+        "Tag":["JavaScript"],
+},
+
+{"URL":"https://inajob.github.io/my-tweet-summary-view/",
+        "Title":"@ina_ani から見たTwitter",
+        "Description":"",
+        "Icon":"",
+        "Tag":["JavaScript"],
+},
+
+{"URL":"https://inajob.github.io/today-twit/",
+        "Title":"過去の今日の@ina_aniのTweet",
+        "Description":"",
+        "Icon":"",
+        "Tag":["JavaScript"],
+},
+
+
 {"URL":"https://inajob.github.io/mce3/?flower(10)%0A+shift(0.4%2C0)%0A++scale(0.1)%0A+++circle()%0A+shift(0.7%2C0)%0A++scale(0.2)%0A+++fs(%22black%22)%0A++++poly(6%2C1)%0Acircle(1.8)%0Alw(4)%0A+circle()%0A+circle(1.9)%0Acircle(1.98)%0Acircle(2)%0Ascale(0.5)%0A+font(%22Abril+Fatface%22)%0A++ss(%22white%22)%0A+++lw(100)%0A+++++text(%22MCE%22)%0A++fs(%22black%22)%0A+++++text(%22MCE%22)%0A",
         "Title":"MCE3",
         "Description":"魔法陣作成環境バージョン3",
