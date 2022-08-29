@@ -4,11 +4,91 @@ var intro = [
 //	 "Description":"暇なときにポチッと ネタを提供？",
 //	 "Icon":"http://inajob.dip.jp/rword/neta.png"},
 
+{"URL":"https://inajob.hatenablog.jp/entry/cnc-circuit-board",
+        "Title":"親バカサンプラー",
+        "Description":"CNCで基板を切削してサンプラーを作ってみた",
+        "Icon":"https://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20200922/20200922180428.png",
+        "Tag":["ハードウェア"],
+},
+
+{"URL":"https://inajob.hatenablog.jp/entry/toy-for-baby",
+        "Title":"ノーコード電子工作で娘のおもちゃを作った",
+        "Description":"DFPlayerMiniを使っておもちゃを作ってみた",
+        "Icon":"https://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20210212/20210212192005.png",
+        "Tag":["ハードウェア"],
+},
+
+{"URL":"https://inajob.hatenablog.jp/entry/espboy",
+        "Title":"ESPboyというオープンソースの携帯ゲーム機を日本用に再設計してみた",
+        "Description":"日本でも使えるESPboyを作ってみました",
+        "Icon":"https://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20220813/20220813150506.jpg",
+        "Tag":["ハードウェア"],
+},
+
+{"URL":"https://inajob.hatenablog.jp/entry/remote-white-board",
+        "Title":"ホワイトボードの買い物リストを外から見えるようにする",
+        "Description":"ESP32Cameraを使って買い物リストを外から見えるようにしました",
+        "Icon":"https://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20220619/20220619140906.png",
+        "Tag":["ハードウェア"],
+},
+
+{"URL":"https://inajob.hatenablog.jp/entry/poormans-usb-cable-checker-enclosure",
+        "Title":"貧者のUSBケーブルチェッカーをセルフパワー化するケース",
+        "Description":"貧者のUSBケーブルチェッカーのケースを作ってみた",
+        "Icon":"https://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20220502/20220502144044.png",
+        "Tag":["3Dプリンタ"],
+},
+
+{"URL":"https://inajob.hatenablog.jp/entry/ch9328",
+        "Title":"ArduinoとCH9328でお手軽自作キーボード",
+        "Description":"CH9328で自作キーボードを作ってみました",
+        "Icon":"https://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20220405/20220405220253.png",
+        "Tag":["ハードウェア"],
+},
+
+{"URL":"https://inajob.hatenablog.jp/entry/kitchen-shelf",
+        "Title":"キッチンの水きり棚を便利に使う治具",
+        "Description":"キッチンの水切り棚が使い物にならなかったので治具を作りました",
+        "Icon":"https://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20220320/20220320121724.png",
+        "Tag":["3Dプリンタ"],
+},
+
+{"URL":"https://inajob.hatenablog.jp/entry/raspberry-pi-fast-japanese",
+        "Title":"6.5秒で起動する日本語対応Vimマシン",
+        "Description":"Buildrootを使って作った高速起動のLinuxマシン",
+        "Icon":"https://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20220331/20220331222545.png",
+        "Tag":["Raspberry Pi"],
+},
+
+
+{"URL":"https://inajob.hatenablog.jp/entry/unko-cookie",
+        "Title":"3Dプリンターでつくる「うんこクッキー」",
+        "Description":"3Dプリンターでオリジナルのクッキー型を作ってみた",
+        "Icon":"https://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20220122/20220122080901.png",
+        "Tag":["3Dプリンタ"],
+},
+
+{"URL":"https://inajob.hatenablog.jp/entry/3dpcb-challenge",
+        "Title":"3DPCBに挑戦",
+        "Description":"3DプリンターでPCBの代わりになる仕組みを作ってみた",
+        "Icon":"https://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20211203/20211203072456.png",
+        "Tag":["3Dプリンタ"],
+},
+
+
+{"URL":"https://inajob.hatenablog.jp/entry/allpcb39",
+        "Title":"ALLPCB39",
+        "Description":"39キーの自作キーボード",
+        "Icon":"https://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20211110/20211110110615.png",
+        "Tag":["ハードウェア"],
+},
+
+
 {"URL":"https://github.com/inajob/ouchi-raspberry-pi",
         "Title":"おうちRaspberryPi",
         "Description":"我が家のRaspberryPiを使ったNAS兼サイネージの構築スクリプト",
         "Icon":"https://github.com/inajob/ouchi-raspberry-pi/raw/main/ouchi-raspberrypi.jpg",
-        "Tag":["JavaScript"],
+        "Tag":["Raspberry Pi"],
 },
 
 
