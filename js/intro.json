@@ -178,18 +178,6 @@ var intro = [
         "Tag":["実験"],
 },
 
-{"URL":"http://web.inajob.freeddns.org/maibyo/",
-        "Title":"毎秒新聞",
-        "Description":"インターネットの今が見えるサービス",
-        "Icon":"http://web.inajob.freeddns.org/maibyo/logo.png",
-        "Tag":["JavaScript"],
-},
-{"URL":"http://page.inajob.freeddns.org/maiji/",
-        "Title":"毎時新聞",
-        "Description":"1時間ごとの流行画像をまとめるWebサービスです",
-        "Icon":"http://page.inajob.freeddns.org/maiji/logo.png",
-        "Tag":["JavaScript"],
-},
 {"URL":"https://inajob.github.io/magical-circle-generator/",
         "Title":"魔法陣自動生成",
         "Description":"リロードするたびに新しい魔法陣を生成します。",
@@ -282,13 +270,6 @@ var intro = [
         "Description":"mastodonのタイムラインをのぞき見する",
         "Icon":"https://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20170423/20170423194843.png",
         "Tag":["JavaScript","mastodon"],
-        "Status":"実験"
-},
-{"URL":"http://web.inajob.freeddns.org/ali-search/",
-        "Title":"アリサーチ",
-        "Description":"AliExpressをシンプルに検索",
-        "Icon":"",
-        "Tag":["JavaScript"],
         "Status":"実験"
 },
 {"URL":"https://inajob.github.io/anime-title-generator/index.html",
@@ -388,13 +369,6 @@ var intro = [
         "Tag":["JavaScript", "自然言語処理"],
         "Status":"実験"
 },
-{"URL":"http://web.inajob.freeddns.org/bijin-search/",
-        "Title":"美人検索",
-        "Description":"美人を検索できるWebサービス",
-        "Icon":"http://cdn-ak.f.st-hatena.com/images/fotolife/i/inajob/20140713/20140713202245.png",
-        "Tag":["JavaScript"],
-        "Status":"実験"
-},
 
 {"URL":"http://web.inajob.freeddns.org/dote/dote.html",
         "Title":"DotE どっと・え",
@@ -480,19 +454,6 @@ var intro = [
         "Status":"開発中"
 },
 
-{"URL":"http://animecheck.herokuapp.com/",
-        "Title":"AnimeCheck",
-        "Description":"アニメの履修記録をつけられるWebサービス",
-        "Icon":"http://animecheck.herokuapp.com/assets/ac.png",
-        "Tag":["Ruby on Rails"],
-        "Status":"開発中"
-},
-{"URL":"http://douyo.inajob.freeddns.org/kdouyo.html",
-	 "Title":"どぅよ？",
-	 "Description":"テキトーなモノを次々怪しいタグ付きで紹介",
-	 "Icon":"http://douyo.inajob.freeddns.org/douyo.png",
-	 "Tag":["twitter","bot"],
-	 "Status":"一応まだ動いてる"},
 {"URL":"https://inajob.github.io/canvas-skk/canvas_skk.html",
         "Title":"CanvasSKK",
         "Description":"日本語変換エンジンをJavaScriptで作ってみた",
@@ -536,17 +497,4 @@ var intro = [
         "Tag":["HTML5","Canvas","魔法陣"],
         "Status":"実験 - MCEへ"
 },
-
-{"URL":"http://tsukutter.inajob.freeddns.org/",
-        "Title":"つくったー",
-        "Description":"作ったものを皆に紹介",
-        "Icon":"http://tsukutter.inajob.freeddns.org/tsu_big.png",
-        "Tag":["twitter"],
-        "Status":"稼働中 いろいろ手を入れたい follow me!"},
-{"URL":"http://inajob.dip.jp/twlogin/data/5643382%3AFrontPage.html",
-        "Title":"karuki",
-        "Description":"Ajaxを利用したWiki 作業ログとかこれで書いてます",
-        "Icon":"",
-        "Tag":["karuki","Wiki"],
-        "Status":"開発中"},
 ];
