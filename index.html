@@ -106,7 +106,25 @@ td{
 </head>
 <body>
 <h1>inajobの自己紹介ページ</h1>
-<img class="icon" src="images/rface2.png">
+<table>
+  <tr>
+    <td><img class="icon" src="images/rface2.png"></td>
+    <td>
+40代、既婚、<script>
+    (function() {
+      const birthDate = new Date(2020, 0, 1); // 2020年1月1日
+      const today = new Date();
+      let age = today.getFullYear() - birthDate.getFullYear();
+      const m = today.getMonth() - birthDate.getMonth();
+      if (m < 0 || (m === 0 && today.getDate() < birthDate.getDate())) {
+        age--;
+      }
+      document.write(age);
+    })();
+</script>歳の娘の父、ソフトウェアエンジニア、Web、電子工作
+    </td>
+  </tr>
+</table>
 <ul>
   <li>
     <div><span class="item">X: <a target="_blank" href="http://twitter.com/ina_ani">@ina_ani</a></span></div>
@@ -130,7 +148,7 @@ td{
   <li>
     <div><span class="item"><a target="_blank" href="https://inajob.hatenablog.jp">inajob's blog</a></span></div>
    <ul>
-      <li><div>最近は月一で作った電子工作の紹介をしています</div></li>
+      <li><div>自分が作ったものについて書いています</div></li>
     </ul>
   </li>
   <li>
@@ -148,7 +166,7 @@ td{
   <li>
     <div><span class="item"><a target="_blank" href="https://inajob.github.io/inajob-river-peeker/">Discordサーバー 「inajob川」の様子を見る</a></span></div>
     <ul>
-      <li><div>Discordサーバーもあります</div></li>
+      <li><div>inajobの情報が流れてくる「川」です。inajobと交流したい人はどうぞ！</div></li>
     </ul>
   </li>
   <li>
@@ -166,7 +184,7 @@ td{
   <li>
     <div><span class="item"><a target="_blank" href="https://open.spotify.com/show/6nDe9T61ZUBvLWfavKS98y">#inajob の試しに録音してみた</a></span></div>
    <ul>
-      <li><div>毎週更新、30代後半 ものづくりが好きで、子育て中のエンジニアであるinajobのなんでもない雑談をお届けするポッドキャスト</div></li>
+      <li><div>毎週更新、40代 ものづくりが好きで、子育て中のエンジニアであるinajobのなんでもない雑談をお届けするポッドキャスト</div></li>
     </ul>
   </li>
   <li>
